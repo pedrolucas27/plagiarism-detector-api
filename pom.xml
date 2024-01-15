@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>br.edu.imd</groupId>
 	<artifactId>api-detector-plagio</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>api-detector-plagio</name>
 	<description>api-detector-plagio</description>
 	<properties>
